@@ -1,0 +1,254 @@
+KIS POWER PLANT OUTAGE SUMMARY,,,,,
+,,,,,
+,,,,,
+UNIT,START_DATE_AND _TIME,END_DATE_AND_TIME,DURATION,TYPE_OF_OUTAGE,DESCRIPTION
+Power Plant ,02/01/2024 15:51,02/01/2024 15:52,00:24,Unplanned,KIS_plant_shutdown
+Power Plant ,06/01/2024 14:58,06/01/2024 15:01,00:03,Unplanned,KIS_plant_shutdown
+Power Plant ,08/01/2024 14:29,08/01/2024 14:30,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,12/01/2024 08:45,12/01/2024 08:46,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,16/01/2024 12:58,16/01/2024 13:00,00:02,Unplanned,KIS_plant_shutdown
+Power Plant ,23/01/2024 06:10,23/01/2024 07:00,00:50,Unplanned,KIS_plant_shutdown
+Power Plant ,24/01/2024 16:52,24/01/2024 16:53,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,24/01/2024 10:57,24/01/2024 10:58,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,26/01/2024 07:00,26/01/2024 07:06,00:06,Unplanned,KIS_plant_shutdown
+Power Plant ,26/01/2024 07:30,26/01/2024 07:36,00:06,Unplanned,KIS_plant_shutdown
+Power Plant ,26/01/2024 13:11,26/01/2024 13:12,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,28/01/2024 17:01,28/01/2024 17:03,00:02,Unplanned,KIS_plant_shutdown
+Power Plant ,30/01/2024 14:03,30/01/2024 14:06,00:03,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,30/01/2024 20:14,30/01/2024 20:38,00:24,Unplanned,KIS_plant_shutdown
+Power Plant ,06/02/2024 10:48,06/02/2024 10:50,00:02,Unplanned,KIS_plant_shutdown
+Power Plant ,08/02/2024 23:36,08/02/2024 23:39,00:03,Unplanned,KIS_plant_shutdown
+Power Plant ,09/02/2024 15:05,09/02/2024 15:06,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,10/02/2024 08:21,10/02/2024 08:21,00:00,Unplanned,KIS_plant_shutdown
+Power Plant ,14/02/2024 10:26,14/02/2024 10:27,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,14/02/2024 17:15,14/02/2024 17:18,00:03,Unplanned,KIS_plant_shutdown
+Power Plant ,15/02/2024 06:03,15/02/2024 06:47,00:44,Unplanned,KIS_plant_shutdown
+Power Plant ,16/02/2024 11:54,16/02/2024 11:56,00:02,Unplanned,KIS_plant_shutdown
+Power Plant ,16/02/2024 12:51,16/02/2024 12:55,00:04,Unplanned,KIS_plant_shutdown
+Power Plant ,16/02/2024 13:27,16/02/2024 13:30,00:03,Unplanned,KIS_plant_shutdown
+Power Plant ,16/02/2024 14:51,16/02/2024 14:56,00:05,Unplanned,KIS_plant_shutdown
+Power Plant ,17/02/2024 12:27,17/02/2024 12:30,00:03,Unplanned,KIS_plant_shutdown
+Power Plant ,20/02/2024 15:17,20/02/2024 15:18,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,20/02/2024 16:48,20/02/2024 18:17,01:29,Planned,KIS_plant_shutdown
+Power Plant ,20/02/2024 12:52,20/02/2024 12:54,00:02,Unplanned,KIS_plant_shutdown
+Power Plant ,24/02/2024 15:58,24/02/2024 15:59,00:01,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,27/02/2024 04:50,27/02/2024 09:03,04:13,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,27/02/2024 04:50,27/02/2024 10:55,06:05,Unplanned,KIS_plant_shutdown
+Power Plant ,28/02/2024 13:32,28/02/2024 13:33,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,01/03/2024 13:01,01/03/2024 13:02,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,01/03/2024 14:24,01/03/2024 14:25,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,08/03/2024 11:12,08/03/2024 11:14,00:02,Unplanned,KIS_plant_shutdown
+Mulabana 33KV extension,08/03/2024 11:30,08/03/2024 13:54,02:24,Unplanned,KIS_plant_shutdown
+kazimalanga 33KV extension,08/03/2024 11:30,08/03/2024 17:37,06:07,Unplanned,KIS_plant_shutdown
+Power Plant ,10/03/2024 04:58,10/03/2024 04:59,00:01,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,11/03/2024 11:53,11/03/2024 13:48,01:55,Unplanned,KIS_plant_shutdown
+Mulabana  extension,11/03/2024 12:12,11/03/2024 13:50,01:38,Unplanned,KIS_plant_shutdown
+Both Feeders,12/03/2024 05:10,12/03/2024 05:16,00:06,Unplanned,KIS_plant_shutdown
+Power Plant ,14/03/2024 10:00,14/03/2024 10:02,00:02,Unplanned,KIS_plant_shutdown
+Mulabana  extension,14/03/2024 10:11,14/03/2024 14:31,04:20,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,14/03/2024 10:00,14/03/2024 14:10,04:10,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,14/03/2024 10:00,14/03/2024 10:02,00:02,Unplanned,KIS_plant_shutdown
+Both Feeders,16/03/2024 16:29,16/03/2024 16:34,00:05,Unplanned,KIS_plant_shutdown
+Senero 33KV T-off,16/03/2024 16:29,16/03/2024 19:23,02:54,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,25/03/2024 08:02,25/03/2024 08:28,00:26,Unplanned,KIS_plant_shutdown
+Both Feeders,25/03/2024 10:50,25/03/2024 10:52,00:02,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,27/03/2024 05:00,27/03/2024 05:50,00:50,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,11/04/2024 07:34,11/04/2024 07:38,00:04,Planned,KIS_plant_shutdown
+Both Feeders,15/04/2024 16:02,15/04/2024 16:06,00:04,Unplanned,KIS_plant_shutdown
+Both Feeders,18/04/2024 06:55,18/04/2024 07:15,00:20,Unplanned,KIS_plant_shutdown
+Both Feeders,18/04/2024 08:46,18/04/2024 09:00,00:14,Unplanned,KIS_plant_shutdown
+Power Plant ,09/05/2024 06:33,09/05/2024 06:34,00:01,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,01/06/2024 00:00,01/06/2024 11:50,11:50,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,14/06/2024 16:46,14/06/2024 16:58,00:12,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,21/06/2024 03:38,21/06/2024 03:40,00:02,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,21/06/2024 04:36,21/06/2024 05:10,00:34,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,21/06/2024 10:39,21/06/2024 10:45,00:06,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,22/06/2024 10:25,22/06/2024 10:41,00:16,Planned,KIS_plant_shutdown
+Power Plant ,22/06/2024 12:18,22/06/2024 12:20,00:02,Unplanned,KIS_plant_shutdown
+Power Plant ,22/06/2024 16:52,22/06/2024 16:53,00:01,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,25/06/2024 10:48,25/06/2024 11:01,00:13,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,26/06/2024 12:34,26/06/2024 12:36,00:02,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,26/06/2024 13:57,26/06/2024 14:09,00:12,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,27/06/2024 08:47,27/06/2024 08:52,00:05,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,28/06/2024 09:49,28/06/2024 09:52,00:03,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,01/07/2024 06:27,01/07/2024 06:30,00:03,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,01/07/2024 07:05,01/07/2024 07:10,00:05,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,07/07/2024 03:49,07/07/2024 04:10,00:21,Planned,KIS_plant_shutdown
+Power Plant ,07/07/2024 14:17,07/07/2024 14:25,00:08,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,08/07/2024 09:20,08/07/2024 09:30,00:10,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,08/07/2024 12:14,08/07/2024 12:19,00:05,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,08/07/2024 18:50,08/07/2024 19:01,00:11,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,10/07/2024 04:53,10/07/2024 05:26,00:33,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,10/07/2024 09:40,10/07/2024 09:54,00:14,Planned,KIS_plant_shutdown
+Power Plant ,10/07/2024 13:17,10/07/2024 13:21,00:04,Unplanned,KIS_plant_shutdown
+Power Plant ,10/07/2024 20:47,10/07/2024 21:00,00:13,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,11/07/2024 13:53,11/07/2024 14:05,00:12,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,11/07/2024 13:53,11/07/2024 17:30,03:37,Unplanned,KIS_plant_shutdown
+Power Plant ,13/07/2024 02:06,13/07/2024 02:08,00:02,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,13/07/2024 02:06,13/07/2024 05:01,02:55,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,13/07/2024 02:06,13/07/2024 09:19,07:13,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,13/07/2024 10:43,13/07/2024 10:44,00:01,Unplanned,KIS_plant_shutdown
+Power Plant ,14/07/2024 09:09,14/07/2024 09:17,00:08,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,14/07/2024 09:49,14/07/2024 10:08,00:19,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,14/07/2024 09:49,14/07/2024 11:15,01:26,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,15/07/2024 11:58,15/07/2024 12:28,00:30,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,16/07/2024 08:16,16/07/2024 08:24,00:08,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,16/07/2024 08:16,16/07/2024 08:24,00:08,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,16/07/2024 08:16,16/07/2024 11:01,02:45,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,17/07/2024 11:00,17/07/2024 11:08,00:08,planned,KIS_plant_shutdown
+Kalangala  Feeder,17/07/2024 11:00,17/07/2024 11:08,00:08,planned,KIS_plant_shutdown
+Kalangala  Feeder,18/07/2024 12:15,18/07/2024 12:16,00:01,planned,KIS_plant_shutdown
+Kalangala  Feeder,20/07/2024 08:53,20/07/2024 09:32,00:39,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,22/07/2024 16:51,22/07/2024 16:55,00:04,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,24/07/2024 13:03,24/07/2024 13:04,00:01,planned,KIS_plant_shutdown
+Kalangala  Feeder,24/07/2024 16:45,24/07/2024 16:50,00:05,planned,KIS_plant_shutdown
+Bugoma Feeder,26/07/2024 21:30,26/07/2024 22:02,00:32,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,26/07/2024 21:30,26/07/2024 22:45,01:15,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,27/07/2024 10:16,27/07/2024 16:38,06:22,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,27/07/2024 10:16,27/07/2024 13:29,03:13,Unplanned,KIS_plant_shutdown
+Power Plant ,30/07/2024 06:23,30/07/2024 06:43,00:20,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,04/08/2024 07:40,04/08/2024 07:48,00:08,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,07/08/2024 09:52,07/08/2024 10:53,01:01,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,07/08/2024 17:09,07/08/2024 17:12,00:03,planned,KIS_plant_shutdown
+Power Plant ,08/08/2024 13:27,08/08/2024 13:42,00:15,Unplanned,Lost_supply_from_national_grid 
+,09/08/2024 13:44,09/08/2024 13:50,00:06,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,11/08/2024 20:04,11/08/2024 20:07,00:03,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,11/08/2024 20:04,11/08/2024 21:06,01:02,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,11/08/2024 20:04,11/08/2024 20:13,00:09,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,11/08/2024 22:27,11/08/2024 22:29,00:02,Unplanned,KIS_plant_shutdown
+Power Plant ,16/08/2024 23:27,16/08/2024 23:32,00:05,Unplanned,KIS_plant_shutdown
+Power Plant ,30/08/2024 08:55,30/08/2024 09:05,00:10,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,30/08/2024 11:59,30/08/2024 12:07,00:08,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,30/08/2024 12:10,30/08/2024 13:35,01:25,Unplanned,KIS_plant_shutdown
+N.G,01/09/2024 12:41,01/09/2024 12:57,00:16,Unplanned,KIS_plant_shutdown
+Power Plant ,04/09/2024 05:27,04/09/2024 05:30,00:03,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,04/09/2024 06:12,04/09/2024 06:20,00:08,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,06/09/2024 09:03,06/09/2024 10:09,01:06,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,06/09/2024 09:03,06/09/2024 12:49,03:46,Planned,KIS_plant_shutdown
+Bugoma Feeder,07/09/2024 10:45,07/09/2024 11:38,00:53,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,07/09/2024 18:18,07/09/2024 18:19,00:01,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,07/09/2024 18:18,07/09/2024 18:35,00:17,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,07/09/2024 18:18,07/09/2024 19:04,00:46,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,12/09/2024 08:25,12/09/2024 08:36,00:11,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,12/09/2024 10:33,12/09/2024 10:52,00:19,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,14/09/2024 18:54,14/09/2024 19:34,00:40,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,27/09/2024 16:32,27/09/2024 16:58,00:26,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,27/09/2024 18:47,27/09/2024 19:02,00:15,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,27/09/2024 16:32,28/09/2024 00:02,07:30,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,28/09/2024 11:14,28/09/2024 11:22,00:08,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,28/09/2024 12:36,28/09/2024 12:47,00:11,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,28/09/2024 14:43,28/09/2024 14:45,00:02,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,28/09/2024 13:44,28/09/2024 16:13,02:29,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,28/09/2024 17:02,28/09/2024 17:07,00:05,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,28/09/2024 17:02,28/09/2024 18:13,01:11,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,29/09/2024 11:08,29/09/2024 11:09,00:01,Unplanned,Lost_supply_from_national_grid 
+bugoma feeder,01/10/2024 13:05,01/10/2024 13:15,00:10,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,01/10/2024 14:35,01/10/2024 14:58,00:23,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,02/10/2024 12:36,02/10/2024 13:14,00:38,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,02/10/2024 14:29,02/10/2024 14:46,00:17,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,03/10/2024 14:34,03/10/2024 18:02,03:28,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,03/10/2024 14:34,03/10/2024 14:41,00:07,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,03/10/2024 17:23,03/10/2024 18:02,00:39,Unplanned,KIS_plant_shutdown
+bugoma feeder,04/10/2024 04:47,04/10/2024 07:30,02:43,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,06/10/2024 08:42,06/10/2024 09:02,00:20,Unplanned,Lost_supply_from_national_grid 
+National Grid,07/10/2024 11:05,07/10/2024 12:59,01:54,Unplanned,Lost_supply_from_national_grid 
+National Grid,07/10/2024 14:35,07/10/2024 14:38,00:03,Unplanned,Lost_supply_from_national_grid 
+National Grid,08/10/2024 01:52,08/10/2024 02:15,00:23,Unplanned,Lost_supply_from_national_grid 
+Power Plant ,11/10/2024 08:48,11/10/2024 08:49,00:01,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,11/10/2024 08:48,11/10/2024 12:48,04:00,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,11/10/2024 08:48,11/10/2024 08:59,00:11,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,11/10/2024 11:51,11/10/2024 12:09,00:18,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,12/10/2024 14:04,12/10/2024 14:24,00:20,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,12/10/2024 14:42,12/10/2024 14:44,00:02,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,13/10/2024 23:47,14/10/2024 00:24,00:37,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,18/10/2024 04:16,18/10/2024 04:36,00:20,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,22/10/2024 05:27,22/10/2024 11:28,06:01,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,03/11/2024 13:06,03/11/2024 14:00,00:54,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,04/11/2024 09:40,04/11/2024 11:15,01:35,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,07/11/2024 01:31,07/11/2024 02:15,00:44,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,07/11/2024 03:17,07/11/2024 04:00,00:43,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,08/11/2024 01:38,08/11/2024 07:21,05:43,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,08/11/2024 08:07,08/11/2024 08:09,00:02,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,08/11/2024 10:14,08/11/2024 10:17,00:03,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,09/11/2024 07:25,09/11/2024 09:50,02:25,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,10/11/2024 04:15,10/11/2024 04:22,00:07,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,10/11/2024 13:23,10/11/2024 13:39,00:16,Unplanned,KIS_plant_shutdown
+Both Feeders,10/11/2024 13:52,10/11/2024 16:10,02:18,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,11/11/2024 12:41,11/11/2024 14:34,01:53,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,11/11/2024 13:24,11/11/2024 14:36,01:12,Unplanned,KIS_plant_shutdown
+Both Feeders,12/11/2024 08:35,12/11/2024 08:40,00:05,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,13/11/2024 10:10,13/11/2024 14:47,04:37,Planned,KIS_plant_shutdown
+Both Feeders,13/11/2024 20:28,14/11/2024 00:20,03:52,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,14/11/2024 01:23,14/11/2024 09:33,08:10,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,14/11/2024 10:01,14/11/2024 11:52,01:51,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,14/11/2024 19:23,14/11/2024 21:35,02:12,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,15/11/2024 09:12,15/11/2024 10:20,01:08,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,16/11/2024 02:38,16/11/2024 02:58,00:20,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,16/11/2024 04:58,16/11/2024 10:55,05:57,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,16/11/2024 04:58,16/11/2024 14:14,09:16,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,16/11/2024 11:39,16/11/2024 11:40,00:01,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,17/11/2024 12:37,17/11/2024 13:12,00:35,Unplanned,KIS_plant_shutdown
+Both Feeders,18/11/2024 11:22,18/11/2024 12:40,01:18,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,18/11/2024 20:17,18/11/2024 20:46,00:29,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,19/11/2024 00:59,19/11/2024 09:16,08:17,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,19/11/2024 00:59,19/11/2024 08:12,07:13,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,19/11/2024 10:14,19/11/2024 13:36,03:22,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,19/11/2024 13:17,19/11/2024 15:15,01:58,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,21/11/2024 02:59,21/11/2024 03:09,00:10,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,22/11/2024 04:27,22/11/2024 10:13,05:46,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,23/11/2024 04:27,23/11/2024 08:24,03:57,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,24/11/2024 03:49,24/11/2024 05:53,02:04,Unplanned,KIS_plant_shutdown
+Kalangala  Feeder,24/11/2024 21:28,24/11/2024 21:38,00:10,Unplanned,Lost_supply_from_national_grid 
+Bugoma feeder,25/11/2024 06:28,25/11/2024 07:34,01:06,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,25/11/2024 06:28,25/11/2024 07:44,01:16,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,26/11/2024 01:51,26/11/2024 07:35,05:44,Unplanned,Lost_supply_from_national_grid 
+Power Plant,26/11/2024 14:25,27/11/2024 15:03,00:38,Unplanned,KIS_plant_shutdown
+Both Feeders,28/11/2024 11:18,28/11/2024 11:19,00:01,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,28/11/2024 18:53,28/11/2024 18:55,00:02,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,30/11/2024 04:51,30/11/2024 05:40,00:49,Planned,KIS_plant_shutdown
+Both Feeders,30/11/2024 10:16,30/11/2024 10:21,00:05,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,30/11/2024 11:28,30/11/2024 12:15,00:47,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,30/11/2024 13:33,30/11/2024 13:39,00:06,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,30/11/2024 14:22,30/11/2024 19:58,05:36,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,30/11/2024 14:22,30/11/2024 14:29,00:07,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,30/11/2024 14:57,30/11/2024 19:58,05:01,Unplanned,KIS_plant_shutdown
+Bugoma Feeder,01/12/2024 03:15,01/12/2024 04:22,01:07,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,01/12/2024 03:15,01/12/2024 10:51,07:36,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,01/12/2024 04:48,01/12/2024 10:51,06:03,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,01/12/2024 13:38,01/12/2024 14:21,00:43,Unplanned,Lost_supply_from_national_grid 
+Bugoma Feeder,01/12/2024 13:38,01/12/2024 14:21,00:43,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,02/12/2024 01:15,02/12/2024 03:16,02:01,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,02/12/2024 11:52,02/12/2024 11:55,00:03,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,03/12/2024 09:20,03/12/2024 09:28,00:08,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,04/12/2024 07:40,04/12/2024 08:08,00:28,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,05/12/2024 04:36,05/12/2024 05:35,00:59,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,06/12/2024 12:28,06/12/2024 12:35,00:07,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,06/12/2024 15:10,06/12/2024 17:26,02:16,Planned,KIS_plant_shutdown
+Both Feeders,06/12/2024 21:05,07/12/2024 02:22,05:17,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,07/12/2024 16:52,07/12/2024 17:13,00:21,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,11/12/2024 04:53,11/12/2024 05:00,00:07,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,11/12/2024 06:40,11/12/2024 06:43,00:03,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,11/12/2024 08:46,11/12/2024 09:23,00:37,Planned,Lost_supply_from_national_grid 
+Bugoma Feeder,11/12/2024 08:46,11/12/2024 17:24,08:38,Planned,Lost_supply_from_national_grid 
+Kalangala  Feeder,11/12/2024 16:56,11/12/2024 17:24,00:28,Planned,Lost_supply_from_national_grid 
+Both Feeders,12/12/2024 01:30,12/12/2024 01:32,00:02,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,12/12/2024 11:35,12/12/2024 12:20,00:45,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,13/12/2024 08:47,13/12/2024 18:45,09:58,Unplanned,Lost_supply_from_national_grid 
+Kalangala  Feeder,13/12/2024 16:26,13/12/2024 18:45,02:19,Unplanned,KIS_plant_shutdown
+Both Feeders,15/12/2024 05:25,15/12/2024 05:38,00:13,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,15/12/2024 10:54,15/12/2024 12:38,01:44,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,16/12/2024 07:10,16/12/2024 07:23,00:13,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,17/12/2024 03:51,17/12/2024 03:52,00:01,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,18/12/2024 08:08,18/12/2024 08:40,00:32,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,18/12/2024 15:05,18/12/2024 16:52,01:47,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,18/12/2024 20:25,18/12/2024 23:06,02:41,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,19/12/2024 07:01,19/12/2024 08:34,01:33,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,19/12/2024 09:00,19/12/2024 10:47,01:47,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,19/12/2024 17:10,19/12/2024 17:48,00:38,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,21/12/2024 03:50,21/12/2024 03:58,00:08,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,21/12/2024 04:35,21/12/2024 04:47,00:12,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,21/12/2024 04:44,21/12/2024 09:45,05:01,Unplanned,Lost_supply_from_national_grid 
+Kalangala feeder,26/12/2024 12:24,26/12/2024 14:46,02:22,Unplanned,KIS_plant_shutdown
+Both Feeders,29/12/2024 12:12,29/12/2024 13:25,01:13,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,30/12/2024 04:08,30/12/2024 04:10,00:02,Unplanned,Lost_supply_from_national_grid 
+Both Feeders,01/01/2025 00:05,01/01/2025 02:20,02:15,Unplanned,Lost_supply_from_national_grid 
